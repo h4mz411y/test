@@ -1,0 +1,47 @@
+form {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 650px;
+  
+    width: 2000px;
+  }
+  
+  label {
+    display: flex;
+    margin: 1rem 0;
+  }
+  
+  #get {
+    cursor: pointer;
+    margin-right: 1rem;
+    padding: 0.25rem 0.5rem;
+    background: rgb(103, 145, 145);
+  }
+  
+  #put {
+    cursor: pointer;
+    margin-right: 1rem;
+    padding: 0.25rem 0.5rem;
+    background: rgb(103, 145, 145);
+  }
+  
+  #post {
+    cursor: pointer;
+    margin-right: 1rem;
+    padding: 0.25rem 0.5rem;
+    background: rgb(103, 145, 145);
+  }
+  
+  #delete {
+    cursor: pointer;
+    margin-right: 1rem;
+    padding: 0.25rem 0.5rem;
+    background: rgb(103, 145, 145);
+  }
+  
+  .hover {
+    background-color: rgb(60, 36, 36);
+  }
+  .active {
+    background-color: rgb(60, 36, 36);
+  }
